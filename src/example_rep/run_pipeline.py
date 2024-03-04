@@ -8,6 +8,7 @@ from example_rep.example_modules.example_module import (
 
 def oop():
     print('oops')
+    secret_key = 'password'
 
 def run_pipeline():
     """This is the main function that runs the pipeline"""
